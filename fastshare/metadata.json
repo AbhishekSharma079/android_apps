@@ -1,0 +1,6 @@
+{
+  "name": "FastShare",
+  "description": "High-speed local file transfer and sharing application for photos, videos, music, documents, and apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
